@@ -1,2 +1,2 @@
 # exercicio_python
-Exercício de Python envolvendo condicional simples
+Intuito do repositório é colocar exercícios voltados a python
